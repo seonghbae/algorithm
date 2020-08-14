@@ -1,5 +1,3 @@
-package treetravel;
-
 import java.util.Scanner;
 
 class Node{
