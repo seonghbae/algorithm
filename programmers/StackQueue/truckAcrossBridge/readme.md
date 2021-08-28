@@ -63,7 +63,7 @@ class Solution {
 ```
 
 # 1차 결과
-계속 실패하는 경우가 많아 https://medium.com/urechanger/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EB%A6%AC%EB%A5%BC-%EC%A7%80%EB%82%98%EB%8A%94-%ED%8A%B8%EB%9F%AD-2d3cae5ba157 에서 아이디어를 참고하였습니다.
+계속 실패하는 경우가 많아 https://medium.com/urechanger/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EB%A6%AC%EB%A5%BC-%EC%A7%80%EB%82%98%EB%8A%94-%ED%8A%B8%EB%9F%AD-2d3cae5ba157 에서 아이디어를 참고하였습니다.  
 ![1차결과](https://user-images.githubusercontent.com/59535609/131224814-73a43edb-874b-4622-a246-cec280950181.jpg)
 
 # 최종 설계
