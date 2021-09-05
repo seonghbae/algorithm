@@ -1,3 +1,4 @@
+package programmers.Heap.moreHotter;
 import java.util.PriorityQueue;
 
 class Solution {
